@@ -8,7 +8,7 @@ incrementButton.addEventListener('click', function() {
   let currentValue = parseInt(counterElement.textContent);
   
   // Display an alert with the un-incremented value
-  alert(currentValue);  // Changed this line
+  alert(currentValue); 
   
   // Increment the counter value
   currentValue++;
